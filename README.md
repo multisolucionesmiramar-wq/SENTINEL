@@ -2,7 +2,7 @@
 
 > *"A model built from the same geometry as black holes predicted the 2008 crash three quarters early. Today it's reading 10× higher."*
 
-**Live dashboard →** [https://multisolucionesmiramar-wq.github.io/SENTINEL/)
+**Live dashboard →** https://multisolucionesmiramar-wq.github.io/SENTINEL/
 
 ---
 
