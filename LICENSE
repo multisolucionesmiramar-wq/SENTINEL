@@ -1,0 +1,63 @@
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+Copyright (c) 2026 Franklin Ramírez Azofeifa
+Miramar, Puntarenas, Costa Rica
+
+=========================================================================
+
+This work is licensed under the Creative Commons Attribution 4.0
+International License.
+
+Full license text: https://creativecommons.org/licenses/by/4.0/legalcode
+Human-readable summary: https://creativecommons.org/licenses/by/4.0/
+
+=========================================================================
+
+YOU ARE FREE TO:
+
+  Share — copy and redistribute this material in any medium or format,
+  for any purpose, even commercially.
+
+  Adapt — remix, transform, and build upon this material for any
+  purpose, even commercially.
+
+=========================================================================
+
+UNDER THE FOLLOWING TERMS:
+
+  Attribution — You must give appropriate credit, provide a link to
+  the license, and indicate if changes were made. You may do so in any
+  reasonable manner, but not in any way that suggests the licensor
+  endorses you or your use.
+
+  Required attribution format:
+
+    Franklin Ramírez Azofeifa, "SENTINEL — Economic Seismograph" (2026)
+    DOI: 10.5281/zenodo.19015001
+    https://creativecommons.org/licenses/by/4.0/
+
+=========================================================================
+
+WHAT IS NOT COVERED BY THIS LICENSE:
+
+  The implementation details, model weights, calibration methodology,
+  and source code underlying the structural tension index (ITH_ext),
+  the inter-brane separation metric (delta_t), and the H4 economic
+  geometry engine are proprietary trade secrets and are NOT published
+  or licensed under any open license.
+
+  This license applies to:
+  - The dashboard interface (index.html)
+  - The research content and explanatory text
+  - The scenario narratives and plain-language descriptions
+  - The README and supporting documentation
+
+=========================================================================
+
+NO WARRANTIES:
+
+  The licensor offers this work as-is and makes no representations or
+  warranties of any kind. The structural analysis presented is
+  independent research and does not constitute financial advice.
+
+=========================================================================
